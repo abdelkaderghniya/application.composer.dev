@@ -1,0 +1,16 @@
+{
+  "name": "abdelkader/local.application.composer",
+  "authors": [
+    {
+      "name": "abdelkader",
+      "email": "ghniya.abdelkader@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Application\\": "src/Application"
+    }
+  }
+}
